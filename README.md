@@ -1,6 +1,6 @@
 # Hello Developers </> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<!-- <p align="center"><a href="https://github.com/Damantha126">
+<!-- <p align="center"><a href="https://github.com/laurenedscientist">
     <img align="center" alt="Laurene Silva's github stats" src="https://github-readme-stats.vercel.app/api?username=laurenedscientist126&show_icons=true&theme=midnight-purple" />
   </a></p>
 

@@ -1,7 +1,7 @@
 # Hello Developers </> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <!-- <p align="center"><a href="https://github.com/laurenedscientist">
-    <img align="center" alt="Laurene Silva's github stats" src="https://github-readme-stats.vercel.app/api?username=laurenedscientist126&show_icons=true&theme=midnight-purple" />
+    <img align="center" alt="Laurene Silva's github stats" src="https://github-readme-stats.vercel.app/api?username=laurenedscientist&show_icons=true&theme=midnight-purple" />
   </a></p>
 
 <p align="center"><a href="https://github.com/laurenedscientist"><img src="https://github-profile-trophy.vercel.app/?username=laurenedscientist &no-bg=true" alt="laurenedscientist" /></a> </p>
@@ -22,4 +22,4 @@
                                                              
 
 #### **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Damantha126}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{laurenedscientist}/count.svg)

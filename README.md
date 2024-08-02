@@ -9,7 +9,7 @@
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=50px height="80px">
 -->
-[![Laurene Silva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laurene&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/laurenedscientist)
+[![Laurene Silva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laurenedscientist&bg_color=252837&color=14ffb9&line=801de2&point=eb670f&area=true&hide_border=true)](https://github.com/laurenedscientist)
 
 
 <!--# MOST USED LANGUAGES

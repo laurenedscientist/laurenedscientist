@@ -1,4 +1,5 @@
-# Hello Developers </> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=9CDFFB&random=false&width=500&lines=Hello%2C+welcome+to+my+github!+)](https://git.io/typing-svg)
+
 
 <!-- <p align="center"><a href="https://github.com/laurenedscientist">
     <img align="center" alt="Laurene Silva's github stats" src="https://github-readme-stats.vercel.app/api?username=laurenedscientist&show_icons=true&theme=midnight-purple" />

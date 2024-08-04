@@ -1,3 +1,5 @@
+#### Restructuring GitHub Profile! 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=9CDFFB&random=false&width=500&lines=Hello%2C+welcome+to+my+github!+)](https://git.io/typing-svg)
 
 
@@ -33,4 +35,4 @@
 #### **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{laurenedscientist}/count.svg)
 
-#### Restructuring GitHub Profile! 
+
